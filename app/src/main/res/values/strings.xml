@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">imcapp</string>
+    <string name="peso_hint">Peso (kg)</string>
+    <string name="altura_hint">Altura (cm)</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc">IMC</string>
+</resources>
